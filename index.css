@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.game{
+    margin-left: 25%;
+}
+
+.start{
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: rgb(17, 84, 192);
+    color: white;
+    border-radius: 5px;
+    margin-top: 5%;
+    display: block;
+    width: fit-content;
+    text-align: center;
+}
+
+.card{
+    width: 12%;
+    display: block;
+
+}
+
+.c-holder,.p-holder{
+    display: flex;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+.sp{
+    margin-left: 30px;
+}
+
+.deck{
+    margin-left: 35%;
+}
+
+
+.err{
+    color: rgb(143, 32, 32);
+}
+
+.mart{
+   
+    position: absolute;
+    top: 40%;
+}
+.mak{
+    width: 12%;
+    display: block;
+}
